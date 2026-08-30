@@ -62,7 +62,8 @@ Note: There is no stipend associated with this internship.
 └── README.md                               # This file
 ```
 
-##📄 Report Structure
+## 📄 Report Structure
+
 Candidate's Declaration
 
 Acknowledgement
@@ -73,5 +74,6 @@ Project Description
 
 Bibliography/References
 
-##🙏 Acknowledgement
+## 🙏 Acknowledgement
+
 Special thanks to AICTE and EduSkills for providing the opportunity to undertake this online virtual internship, and to the industry mentor Sagarabala Behera for technical insights and support.
